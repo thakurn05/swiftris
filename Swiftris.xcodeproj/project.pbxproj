@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF3CF5C01BD1B0790059C00A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E644DE211974A2EE0018B14C /* AppDelegate.swift */; settings = {ASSET_TAGS = (); }; };
 		E644DE221974A2EE0018B14C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E644DE211974A2EE0018B14C /* AppDelegate.swift */; };
 		E644DE261974A2EE0018B14C /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E644DE251974A2EE0018B14C /* GameScene.swift */; };
 		E644DE281974A2EE0018B14C /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E644DE271974A2EE0018B14C /* GameViewController.swift */; };
@@ -233,6 +234,8 @@
 		E644DE141974A2ED0018B14C /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0600;
 				ORGANIZATIONNAME = Bloc;
 				TargetAttributes = {
@@ -321,6 +324,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF3CF5C01BD1B0790059C00A /* AppDelegate.swift in Sources */,
 				E644DE391974A2EE0018B14C /* SwiftrisTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
